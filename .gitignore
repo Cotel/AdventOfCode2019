@@ -1,0 +1,10 @@
+.gradle
+/local.properties
+/build
+/buildSrc/build
+*.iml
+*.apk
+.idea/*
+app/release/output.json
+.DS_Store
+fastlane/metadata
