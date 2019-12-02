@@ -1,14 +1,8 @@
-package com.cotel.adventofcode.day1
+package com.cotel.adventofcode.day2
 
 import arrow.core.Option
 import arrow.core.Tuple2
 import arrow.core.k
-import arrow.core.toT
-import com.cotel.adventofcode.day2.IntcodeInstruction
-import com.cotel.adventofcode.day2.IntcodeProgram
-import com.cotel.adventofcode.day2.Opcode
-import com.cotel.adventofcode.day2.executeInstruction
-import com.cotel.adventofcode.day2.parseInstruction
 import io.kotlintest.properties.forAll
 import io.kotlintest.properties.Gen
 import io.kotlintest.shouldBe
